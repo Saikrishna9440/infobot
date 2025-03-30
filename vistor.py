@@ -36,7 +36,7 @@ def listen():
 
 
 # Email credentials
-sender_email = '20R21A6656@mlrinstitutions.ac.in'
+sender_email = '20R21A6648@mlrinstitutions.ac.in'
 sender_password = 'mlrit@123'
 user_email = '20R21A6610@mlrinstitutions.ac.in'
 
